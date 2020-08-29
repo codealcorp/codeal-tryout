@@ -12,4 +12,5 @@ def fizz_buzz
   end
 end
 
+
 fizz_buzz
